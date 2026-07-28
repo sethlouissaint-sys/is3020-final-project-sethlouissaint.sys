@@ -2,22 +2,20 @@
 
 ## Student and Project Information
 
-- Student name:
-- GitHub username:
-- Project title:
-- Application purpose:
+- Student name: Seth Louissaint
+- GitHub username: sethlouissaint-sys
+- Project title: astrology calendar
+- Application purpose: To read fortunes based on your birthdays
 
 ## How to Run the Application
 
-Explain the required Python version, required files, and the exact steps for starting the application in PyCharm.
-
+You can run it on PyCharm or visual studio code
 ## Major Features
 
-List the major user-facing features implemented in the final application.
-
+The major features are how it is different Fortunes as well as having the capability to rephrase the given fortune
 ## Python Concepts Used
 
-Explain how the application uses functions, collections, conditionals, loops, file persistence, and exception handling.
+I used concepts such as While loops, If statements, Dictionaries, lists
 
 ## Data Files
 
@@ -25,7 +23,7 @@ Describe each CSV or JSON file and provide a brief explanation of its fields.
 
 ## Testing Summary
 
-Describe the major scenarios tested, including invalid input and file-related errors.
+I tested multiple choices for months/days, I also tested wanting the fortune rephrased, I also tested out the multiple ways to end the code
 
 ## AI Use
 
