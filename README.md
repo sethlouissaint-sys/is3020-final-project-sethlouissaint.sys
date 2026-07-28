@@ -28,3 +28,4 @@ I tested multiple choices for months/days, I also tested wanting the fortune rep
 ## AI Use
 
 Complete `AI_USAGE.md` and summarize the most important AI-assisted improvements here.
+ I asked them the best possible way to use rephrasing
