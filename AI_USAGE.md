@@ -2,24 +2,31 @@
 
 ## Original Development
 
-Explain how you developed the original version and describe any AI assistance used before the first required commit. AI use during this stage should be minimal.
+My Original development started off by mainly using lists and If statements
 
 ## AI Tools Used
 
-List each AI tool used while improving the application.
+The Ai tool That I used was Chat Gpt
 
 ## Improvements Requested
 
-Describe the important prompts or requests you gave the AI. Do not paste a complete chat transcript.
+I asked the Ai to help integrate CSV and OS into my code
+I also asked them the best possible way to use rephrasing
+
+
 
 ## Changes Accepted
 
-For each major accepted change, explain what changed, why you accepted it, and how you verified that you understood it.
+I accepted the csv and the os because I was having trouble using it in my code
+I also accepted the rephasing because it turned out better than asking for another fortune
+
 
 ## Changes Rejected or Revised
 
-Describe any AI suggestion you rejected or modified and explain why.
+I rejected the display previous fortune just to help prevent repeats
+as well as allowing the user to see their History incase there was a repeated fortune
 
 ## What I Learned
 
-Explain what you learned by reviewing and applying the AI-assisted improvements.
+I learned how to inport CSV and OS
+as well as a way to rephrase instead of repeating fortunes
